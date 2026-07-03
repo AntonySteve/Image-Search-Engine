@@ -3,7 +3,7 @@
 A fast, responsive, and modern **Image Search Engine** built using **HTML, CSS, and JavaScript** with integration to the **Unsplash API**.  
 This project allows users to search and explore high-quality images dynamically with a clean and user-friendly interface.
 
----
+
 
 # 🚀 Live Demo
 
