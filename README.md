@@ -8,7 +8,7 @@ This project allows users to search and explore high-quality images dynamically 
 # 🚀 Live Demo
 
 🌐 Live Website:  
-[Image Search Engine Live Demo](https://antonysteve.github.io/Image-Search-Engine-main/)
+https://image-search-engine-html.netlify.app/
 
 ---
 
